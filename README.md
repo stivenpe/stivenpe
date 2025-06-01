@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/0cB7n7qDg4oAAAAC/hello-there.gif"  width="120" />
+  <img src="https://media.tenor.com/m/Y/TXjZgCQdEwYAAAAC/goku-sayian.gif"  width="300" />
   <h1>👋 Hola, soy Jeisson Stiven Pérez González</h1>
   <p><strong>Ingeniero de Sistemas en formación | Desarrollador Apasionado</strong></p>
   <p>Estudiante apasionado por la tecnología y el desarrollo de software.<br />Como diría Goku: <em>"¡Nunca te rindas!"</em></p>
