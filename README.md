@@ -5,7 +5,6 @@
   <p>Creando soluciones con energía Saiyajin y código limpio.</p>
   
   <a href="https://github.com/stivenpe/stivenpe">
-    <img src="https://readme-typing-effect.vercel.app/?text=System+Engineer+Student+|+FullStack+Dev+|+Always+Leveling+Up!&font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true" />
   </a>
 </div>
 
