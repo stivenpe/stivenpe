@@ -28,7 +28,7 @@
 ## ⚡ Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,python,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,python,mysql,git,github,postman" />
 </p>
 
 ---
@@ -53,7 +53,6 @@
 ### 🎓 Sistema de Gestión Escolar
 > Administra estudiantes, cursos y calificaciones. Inspirado en los salones de Orange Star High School.
 
-- 🧩 React + Node.js
 - ✅ CRUD completo
 - 📊 Dashboard dinámico
 [🔗 Ver repositorio](https://github.com/stivenpe/sistema-gestion-escolar)
