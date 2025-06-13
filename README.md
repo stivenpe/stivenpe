@@ -107,7 +107,7 @@
 
 ## 🌐 Encuéntrame como un Guerrero Z moderno
 
-📧 **Correo:** stivenperezgonzalez@example.com  
+📧 **Correo:** perezjeisson003@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/jeisson-stiven-perez-gonzalez-8b1b66316/) *(actualízalo)*  
 🌐 **Portafolio:** [tuportafolio.com](https://majestic-tanuki-d8c881.netlify.app/) *(si tienes uno)*
 
